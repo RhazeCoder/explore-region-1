@@ -1,0 +1,18 @@
+.swiper-slide p {
+  font-size: 18px;
+  font-weight: 400;
+  color: #ffffff;
+  background-color: rgba(0,0,0,0.5);
+  text-align: center;
+}
+
+.conclusion {
+  text-align: justify;
+  font-size: 12px;
+  padding: 10px;
+}
+
+.group-member {
+  font-size: 12px;
+}
+

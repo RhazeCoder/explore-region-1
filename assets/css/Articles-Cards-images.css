@@ -1,0 +1,9 @@
+.fit-cover {
+  object-fit: cover;
+}
+
+.swiper-slide {
+  position: absolute;
+  bottom: 0;
+}
+
